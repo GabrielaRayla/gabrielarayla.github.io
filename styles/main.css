@@ -71,3 +71,13 @@ a{
     list-style-type: none;
     line-height: 40px;
 }
+
+@media (max-width: 768px) {
+    main{
+        width: 100%;
+        flex-direction: column;
+    }
+    aside{
+        padding-left: 0px;
+    }
+}
