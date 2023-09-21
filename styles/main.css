@@ -87,5 +87,8 @@ a{
     .container-topic-date{
         flex-direction: column;
     }
+    .main-content{
+        width: 65%;
+    }
     
 }
