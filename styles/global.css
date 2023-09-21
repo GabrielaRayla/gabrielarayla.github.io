@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --salmon-color: #d1947e;
+    --outside-content-color: #f9f9f9;
+    --border-color: #c3c3c3;
+}
+
+body{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+    align-items: center;
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--outside-content-color);
+    font-weight: 300;
+}
+
