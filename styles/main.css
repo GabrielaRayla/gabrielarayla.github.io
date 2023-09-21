@@ -79,5 +79,9 @@ a{
     }
     aside{
         padding-left: 0px;
+        border-left: 0px;
+    }
+    footer{
+        width: 100%;
     }
 }
