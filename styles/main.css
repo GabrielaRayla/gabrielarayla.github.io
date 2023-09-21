@@ -84,4 +84,8 @@ a{
     footer{
         width: 100%;
     }
+    .container-topic-date{
+        flex-direction: column;
+    }
+    
 }
